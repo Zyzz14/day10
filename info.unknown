@@ -1,0 +1,18 @@
+STL=> It is collection of library/ algo, function and other component/ data structure.
+To simlify/ development the c++ programming.
+
+container=> It is use to store the data in sequential manner to simplify your requirement
+
+sequence container=>
+simple array without STL
+Array without STL - it does not have predefined function.
+
+syntax
+
+Array
+1. optimization
+2. no need to write complete logic/ code is short
+3. data type is decided at runtime
+
+Disadvantages
+1. It is in static nature 
